@@ -17,9 +17,10 @@
 
 
 ### Добрый вечер, спасибо, что заглянули в мой readme!
-# Никита, приятно познакомиться 
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=1DF730&center=&vCenter=&width=435&lines=Hi!+My+name+is+Nikita)](https://git.io/typing-svg)
   
- Немного о себе:
+ ## Немного о себе:
   + Начал заниматься программированием в 15 лет
   + Большой фанат Киллиана Мерфи
   + Имею 2 года опыта программирования на Python
@@ -70,3 +71,4 @@ contact = {
   'WhatsApp': '+7(968)085-10-15',
 }
 ```
+
