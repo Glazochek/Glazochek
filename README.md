@@ -14,22 +14,21 @@
   
 </div>
 
-
-
-### Добрый вечер, спасибо, что заглянули в мой readme!
+### Good evening, thank you for looking into my readme!
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=1DF730&center=&vCenter=&width=435&lines=Hi!+My+name+is+Nikita)](https://git.io/typing-svg)
-  
+
+
  ## Немного о себе:
-  + Начал заниматься программированием в 15 лет
-  + Большой фанат Киллиана Мерфи
-  + Имею 2 года опыта программирования на Python
-  + В детстве увлекался рисованием, даже поступил в художку
-  + Люблю всем сердцем AI 
++ Started programming at the age of 15
++ A big fan of Killian Murphy
++ I have 2 years of Python programming experience
++ I can draw
++ I love AI with all my heart
 
 <div>
   
-  ## Языки программирования:&nbsp;
+  ## Programming languages:&nbsp;
   
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -66,7 +65,7 @@
 </div> -->
   
 ```python
-contact = {
+contacts = {
   'telegramm': '@Glazxchek',
   'WhatsApp': '+7(968)085-10-15',
 }
