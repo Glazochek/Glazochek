@@ -66,7 +66,7 @@
   
 ```python
 contact = {
-  'telegramm':'@Glazxchek',
-  'WhatsApp': '+7(968)085-10-15'
+  'telegramm': '@Glazxchek',
+  'WhatsApp': '+7(968)085-10-15',
 }
 ```
