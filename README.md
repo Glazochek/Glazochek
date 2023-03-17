@@ -23,7 +23,6 @@
 + Started programming at the age of 15
 + A big fan of Killian Murphy
 + I have 2 years of Python programming experience
-+ I can draw
 + I love AI with all my heart
 
 <div>
