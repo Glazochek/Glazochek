@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/52/03/8a/52038aee8e50978dfc20614660c578fb.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/52/03/8a/52038aee8e50978dfc20614660c578fb.gif" width="250"/>
 <!--   https://i.pinimg.com/originals/ee/ca/5a/eeca5a8ba88568aae13de71ad347e5c1.gif -->
 <!--   https://i.pinimg.com/originals/52/03/8a/52038aee8e50978dfc20614660c578fb.gif -->
 <!--   https://64.media.tumblr.com/565dc5fcaf8061a1a39b5d9770891e35/1b39ec9196d50669-ea/s1280x1920/b9aaae700e5d6ed055c5e0be7b2dc76a6d6e2cb3.gif -->
