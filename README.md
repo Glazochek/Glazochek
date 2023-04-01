@@ -16,7 +16,7 @@
 
 ### Good evening, thank you for looking into my readme!
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=1DF730&center=&vCenter=&width=435&lines=Hi.+My+name+is+Nikita)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=1DF730&center=&vCenter=&width=435&lines=Hi.+My+name+is+Nikita!)](https://git.io/typing-svg)
 
 
  ## Немного о себе:
