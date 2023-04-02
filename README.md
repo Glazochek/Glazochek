@@ -20,16 +20,22 @@
 
 
  ## Немного о себе:
+  + Started programming at the age of 15
+  + A big fan of Killian Murphy
+  + I have 2 years of Python programming experience
+  + I love AI with all my heart
 <div>
   
-```python
-model = Sequential([
-    layers.Dense(" Started programming at the age of 15 "),
-    layers.Dense(" A big fan of Killian Murphy "),
-    layers.Dense(" I have 2 years of Python programming experience "),
-    layers.Dense(" I love AI with all my heart "),
-])
-```
+<!-- ```python
+model = Sequential(
+    [
+        layers.Dense('Started programming at the age of 15'),
+        layers.Dense('A big fan of Killian Murphy'),
+        layers.Dense('I have 2 years of Python programming experience'),
+        layers.Dense('I love AI with all my heart'),
+    ]
+)
+``` -->
   
   
   ## Programming languages:&nbsp;
