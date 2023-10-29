@@ -21,7 +21,7 @@
 
  ## Something about me:
   + Started programming at the age of 15
-  + A big fan of Killian Murphy
+  + A big fan of Cillian Murphy
   + I have 2 years of Python programming experience
   + I love AI with all my heart
 <div>
