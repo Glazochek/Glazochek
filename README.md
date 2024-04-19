@@ -76,7 +76,7 @@ model = Sequential(
   
 ```python
 contacts = {
-  'telegramm': '@Glazxchek',
+  'Telegramm': '@Glazxchek',
   'WhatsApp': '+7(968)085-10-15',
 }
 ```
