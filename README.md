@@ -61,11 +61,5 @@
     <img width="50" height="50" src="https://cdn.cdnlogo.com/logos/w/35/whatsapp-icon.svg" alt="WhatsApp"/>
   </a>
 </div> -->
-  
-```python
-contacts = {
-  'Telegramm': '@Glazxchek',
-  'WhatsApp': '+7(968)085-10-15',
-}
-```
+
 
